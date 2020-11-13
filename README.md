@@ -1,7 +1,17 @@
 # FACEBOOK
-MADE WITH REACT AND FIREBASE 
+MADE WITH REACT Js AND FIREBASE 
 
-## APP DEMO
+## WALK OVER THE PROJECT
+
+<img src='./app_demo.gif'/>
+
+## concepts used 
+* React + React Hooks
+* Firebase **Google Authentication [FULL LOGIN]**
+* Firebase Hosting  Link - https://facebookclone-8a4b4.web.app/
+* Material UI - A lib for CSS
+* Flex Box  - Used to arrange items 
+* React Context API -Redux Pattern to drill down the apps
 
 
 In the project directory, you can run:
@@ -19,4 +29,4 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-## WALK OVER THE PROJECT
+
