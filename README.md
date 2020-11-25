@@ -5,13 +5,19 @@ MADE WITH REACT Js AND FIREBASE
 
 <img src='./app_demo.gif'/>
 
-## concepts used 
+
+## Concepts used 
 * React + React Hooks
 * Firebase **Google Authentication [FULL LOGIN]**
 * Firebase Hosting  Link - https://facebookclone-8a4b4.web.app/
 * Material UI - A lib for CSS
 * Flex Box  - Used to arrange items 
 * React Context API -Redux Pattern to drill down the apps
+
+
+## REAL TIME POST OF DATA 
+
+<img src='./demp_post.gif'/>
 
 
 In the project directory, you can run:
